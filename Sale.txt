@@ -1,1 +1,3 @@
 Git you are awsome
+
+added new line after clone
